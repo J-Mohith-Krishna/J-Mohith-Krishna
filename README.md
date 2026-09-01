@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on AI-powered applications, backend systems and voice-agent platforms.<br>I’m looking to collaborate on AI/ML, LLM, Computer Vision and intelligent system projects.<br>I’m currently learning LLMs, RAG, AI Agents, Reinforcement Learning and production AI systems.<br>Fun fact: I enjoy turning AI concepts into actual working systems more than just training models.<br>Practicality better than Perfection.
+- I’m currently working on AI-powered applications, backend systems and voice-agent platforms.
+- I’m looking to collaborate on AI/ML, LLM, Computer Vision and intelligent system projects.
+- I’m currently learning LLMs, RAG, AI Agents, Reinforcement Learning and production AI systems.
+- Fun fact: I enjoy turning AI concepts into actual working systems more than just training models.
+- Practicality better than Perfection.
 
 
 ## 🌐 Socials:
